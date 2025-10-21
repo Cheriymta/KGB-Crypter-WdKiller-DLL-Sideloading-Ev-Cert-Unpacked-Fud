@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{35340A71-3826-453F-84CE-46A8ACBDD543}") = "MONSTERMC Crypter Fud", "MONSTERMC Crypter Fud\MONSTERMC Crypter Fud.vbproj", "{F17C72A4-0C41-49FA-B10B-113B57EBC9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17C72A4-0C41-49FA-B10B-113B57EBC9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17C72A4-0C41-49FA-B10B-113B57EBC9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17C72A4-0C41-49FA-B10B-113B57EBC9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17C72A4-0C41-49FA-B10B-113B57EBC9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E0A41D-897B-4535-9048-2BE613C18118}
+	EndGlobalSection
+EndGlobal
